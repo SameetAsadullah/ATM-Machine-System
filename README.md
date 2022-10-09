@@ -5,21 +5,21 @@ An `ATM Machine System` in `Java` using `IntelliJ`. User can `Withdraw Money` an
 
 ### Working Screenshots
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/ATM-Machine-System/blob/main/extras/login-ss.png" alt = "" width="500px"/>
+  <img src = "https://github.com/SameetAsadullah/ATM-Machine-System/blob/main/extras/login-ss.png" alt = "" width="600px"/>
 </div>
 
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/ATM-Machine-System/blob/main/extras/main-screen-ss.png" alt = "" width="500px"/>
+  <img src = "https://github.com/SameetAsadullah/ATM-Machine-System/blob/main/extras/main-screen-ss.png" alt = "" width="600px"/>
 </div>
 
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/ATM-Machine-System/blob/main/extras/check-balance-ss.png" alt = "" width="500px"/>
+  <img src = "https://github.com/SameetAsadullah/ATM-Machine-System/blob/main/extras/check-balance-ss.png" alt = "" width="600px"/>
 </div>
 
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/ATM-Machine-System/blob/main/extras/withdraw-money-ss.png" alt = "" width="500px"/>
+  <img src = "https://github.com/SameetAsadullah/ATM-Machine-System/blob/main/extras/withdraw-money-ss.png" alt = "" width="600px"/>
 </div>
 
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/ATM-Machine-System/blob/main/extras/withdraw-information-ss.png" alt = "" width="500px"/>
+  <img src = "https://github.com/SameetAsadullah/ATM-Machine-System/blob/main/extras/withdraw-information-ss.png" alt = "" width="600px"/>
 </div>
